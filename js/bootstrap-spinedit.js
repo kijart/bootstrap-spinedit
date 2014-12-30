@@ -186,8 +186,8 @@
 
     DRPGlobal.template =
 	'<div class="spinedit">' +
-	'<i class="glyphicon-chevron-up"></i>' +
-	'<i class="glyphicon-chevron-down"></i>' +
+	'<i class="glyphicon glyphicon-chevron-up"></i>' +
+	'<i class="glyphicon glyphicon-chevron-down"></i>' +
 	'</div>';
 
 }(window.jQuery);
