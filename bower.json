@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap3-spinedit",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kijart/bootstrap-spinedit",
+  "authors": [
+    "Christophe Geers <geersch@gmail.com>",
+    "Luis Miguel Vicente Fuentes <kijart@gmail.com>"
+  ],
+  "description": "bootstrap spinedit (numeric stepper)",
+  "main": "js/bootstrap-spinedit.js",
+  "keywords": [
+    "spinedit",
+    "bootstrap",
+    "stepper"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
