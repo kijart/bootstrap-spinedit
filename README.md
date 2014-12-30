@@ -5,7 +5,7 @@
 
 A spin edit control for Twitter Bootstrap.
 
-Tested with version 2.2.1.
+Tested with version 3.2.0.
 
 ## Demo
 
